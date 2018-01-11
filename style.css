@@ -67,7 +67,7 @@ footer{
            text-decoration: underline;
            color: #0056b3;
  }
- h3#header a:hover{
+ #header a:hover{
       text-decoration: underline;
  }
  div.questions {
