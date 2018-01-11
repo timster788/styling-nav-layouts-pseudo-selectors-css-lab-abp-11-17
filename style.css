@@ -11,7 +11,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -63,3 +63,21 @@ footer{
   padding-top: 20px;
   color: #CCC;
 }
+ nav a:hover {
+           text-decoration: underline;
+           color: #0056b3;
+ }
+ h3#header a:hover{
+      text-decoration: underline;
+ }
+ div.questions {
+              padding-top: 0px;
+              padding-bottom: 0px;
+              padding-left: 20px;
+              padding-right: 20px;
+ }
+
+ div.questions h4 {
+    font-size: 30px;
+    margin-bottom: 30px;
+ }
